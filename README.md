@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elainang
-- 👀 I’m interested in becoming a web developer
+- 👀 I’m interested in becoming an app developer
 - 🌱 I’m currently learning html, css, and javascript
 - 💞️ I’m looking to collaborate on anything that will help me with my journey
 - 📫 How to reach me >>> elainang@yahoo.com
